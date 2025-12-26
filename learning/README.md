@@ -53,40 +53,40 @@ Step 6: Study Schedule Generation
 
 # The Deep Dive Explainer:
 
-Break down [complex topic] like I'm 12, then gradually increase complexity over 5 levels until I reach expert understanding."
+Break down [complex topic] like I'm 12, then gradually increase complexity over 5 levels until I reach expert understanding.
 
 # Mistake Prevention System:
 
-List the 10 most common mistakes beginners make with [skill/topic]. For each, give me a simple check to avoid it."
+List the 10 most common mistakes beginners make with [skill/topic]. For each, give me a simple check to avoid it.
 
 # Learning Path Architect:
 
-Create a step-by-step roadmap to master [skill] in [timeframe]. Include milestones, resources, and weekly goals."
+Create a step-by-step roadmap to master [skill] in [timeframe]. Include milestones, resources, and weekly goals.
 
 # The Analogy Machine:
 
-Explain [difficult concept] using 3 different analogies from [sports/cooking/movies]. Make it impossible to forget."
+Explain [difficult concept] using 3 different analogies from [sports/cooking/movies]. Make it impossible to forget.
 
 # Practice Problem Generator:
 
-Give me 5 progressively harder practice problems for [topic]. Include hints and detailed solutions."
+Give me 5 progressively harder practice problems for [topic]. Include hints and detailed solutions.
 
 # Real-World Connector:
 
-Show me 7 ways [concept I'm learning] applies to everyday situations. Use specific examples I can relate to."
+Show me 7 ways [concept I'm learning] applies to everyday situations. Use specific examples I can relate to.
 
 # Knowledge Gap Hunter:
 
-Quiz me on [subject] with 10 questions. Based on my answers, identify exactly what I need to study next."
+Quiz me on [subject] with 10 questions. Based on my answers, identify exactly what I need to study next.
 
 # The Simplification Master:
 
-Take this complex explanation [paste text] and rewrite it so a 10-year-old could understand it perfectly."
+Take this complex explanation [paste text] and rewrite it so a 10-year-old could understand it perfectly.
 
 # Memory Palace Builder:
 
-Help me create a vivid story connecting these [facts/formulas/vocab words] so I never forget them."
+Help me create a vivid story connecting these [facts/formulas/vocab words] so I never forget them.
 
 #  Progress Accelerator:
 
-I know [current knowledge]. Design 3 challenging projects that will push me to the next level in [skill/subject]."
+I know [current knowledge]. Design 3 challenging projects that will push me to the next level in [skill/subject].
